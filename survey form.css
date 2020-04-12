@@ -1,0 +1,11 @@
+body{background-color: rgb(300,200,100);}
+h1{text-align: center;}
+#form{border:solid black 2px;
+	background-color: silver;
+display:table;
+padding:5px;}
+.row{display: table-row;
+padding-right: 5px;}
+.row label{display:table-cell;
+text-align:left;}
+.row input{display:table-cell;}
